@@ -1,0 +1,9 @@
+Observations on mice response to different anti-cancer treatments 
+
+1. Generall speaking Capomulin seems to be the only treatment (of those analyzed) actually capable of fighting off cancer, despite having some modest defficiencies 
+
+2. Capomulin is the only treatement able to not only contain tumor growth, but actually reverse it (i.e., negative tumor growth). It does so showing little variation across mice (i.e., standard error measurement is modest and constant).
+
+3. Other metrics of response to cancer treatments also show Capomulin outperforms the rest. The rate of incerase in metastatic sites is the lowest across treatments, while only a few number of mice die (20%) die over time under this treatment, while at least 40% die under other treatments (recahing as much as 60% in some cases). 
+
+4. Finally, it is worth highlighting the poor results shown by the Ketapril treatment, which not only seems to be unable to fight off cancer, but actually make things worse. Metrics such as tumor growth and spread of metastatic sites show worse results than no treatment (Placebo), although controlling for standard error we cannot say they are statistically different. 
